@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal" >
+    <item android:id="@+id/es"
+        android:title="@string/es"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/fr"
+        android:title="@string/fr"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/uk"
+        android:title="@string/uk"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
